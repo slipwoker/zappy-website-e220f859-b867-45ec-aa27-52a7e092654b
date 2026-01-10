@@ -1,57 +1,47 @@
-# רפואה פונקציונלית ישראל — Generative Engine Optimization Map
-
-> A רפואה פונקציונלית business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://-e220f859.zappy5.app
+https://example.com
 פלטפורמה מובילה לחיבור בין מטפלים ברפואה פונקציונלית למטופלים בישראל. גלו מאגר מטפלים רפואה פונקציונלית מקצועי ומקיף.
 
 ### שירותים
-https://-e220f859.zappy5.app/services
+https://example.com/services
 גלו את מגוון השירותים והטיפולים שמציעים המטפלים ברפואה פונקציונלית בישראל במאגר שלנו. מייעוץ תזונתי ועד איזון הורמונלי.
 
 ### אודות
-https://-e220f859.zappy5.app/about
+https://example.com/about
 למדו על המשימה שלנו ליצור את מאגר מטפלים רפואה פונקציונלית המקיף ביותר בישראל. הסיפור שלנו והערכים שמנחים אותנו.
 
 ### צור קשר
-https://-e220f859.zappy5.app/contact
+https://example.com/contact
 צרו קשר עם רפואה פונקציונלית ישראל. בין אם אתם מטופלים המחפשים מטפל או מטפלים המעוניינים להצטרף למאגר - נשמח לעזור.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-e220f859.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-e220f859.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-e220f859.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About רפואה פונקציונלית ישראל
-רפואה פונקציונלית ישראל is a business in the רפואה פונקציונלית industry.
-
-## Target Audience
-מטפלים ברפואה הפונקציונלית ומטופלים המחפשים טיפול
-
-## Industry
-רפואה פונקציונלית
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://-e220f859.zappy5.app/sitemap.xml
-- **Robots.txt**: https://-e220f859.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
