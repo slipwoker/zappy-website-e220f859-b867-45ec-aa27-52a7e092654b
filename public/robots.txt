@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://functionalmedicine.co.il/sitemap.xml
+Sitemap: https://zappy-site-e220f859-b867-45ec-aa27.onrender.com/sitemap.xml
