@@ -1,57 +1,47 @@
-# רפואה פונקציונלית ישראל — Generative Engine Optimization Map
-
-> A רפואה פונקציונלית business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://functional-medicine-israel.zappy5.app
+https://functionalmedicine.co.il
 פלטפורמה מובילה לחיבור בין מטפלים ברפואה פונקציונלית למטופלים בישראל. גלו מאגר מטפלים רפואה פונקציונלית מקצועי ומקיף.
 
 ### שירותים
-https://functional-medicine-israel.zappy5.app/services
+https://functionalmedicine.co.il/services
 גלו את מגוון השירותים והטיפולים שמציעים המטפלים ברפואה פונקציונלית בישראל במאגר שלנו. מייעוץ תזונתי ועד איזון הורמונלי.
 
 ### אודות
-https://functional-medicine-israel.zappy5.app/about
+https://functionalmedicine.co.il/about
 למדו על המשימה שלנו ליצור את מאגר מטפלים רפואה פונקציונלית המקיף ביותר בישראל. הסיפור שלנו והערכים שמנחים אותנו.
 
 ### צור קשר
-https://functional-medicine-israel.zappy5.app/contact
+https://functionalmedicine.co.il/contact
 צרו קשר עם רפואה פונקציונלית ישראל. בין אם אתם מטופלים המחפשים מטפל או מטפלים המעוניינים להצטרף למאגר - נשמח לעזור.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://functional-medicine-israel.zappy5.app/privacy
+https://functionalmedicine.co.il/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://functional-medicine-israel.zappy5.app/terms
+https://functionalmedicine.co.il/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://functional-medicine-israel.zappy5.app/accessibility
+https://functionalmedicine.co.il/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About רפואה פונקציונלית ישראל
-רפואה פונקציונלית ישראל is a business in the רפואה פונקציונלית industry.
-
-## Target Audience
-מטפלים ברפואה הפונקציונלית ומטופלים המחפשים טיפול
-
-## Industry
-רפואה פונקציונלית
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://functional-medicine-israel.zappy5.app/sitemap.xml
-- **Robots.txt**: https://functional-medicine-israel.zappy5.app/robots.txt
+- **Sitemap**: https://functionalmedicine.co.il/sitemap.xml
+- **Robots.txt**: https://functionalmedicine.co.il/robots.txt
